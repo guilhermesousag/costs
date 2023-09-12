@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Costs" src=".costs/github/demonstracao.png" width="100%">
+  <img alt="Costs" src="./github/demonstracao.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
