@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Costs" src=".github/demonstracao.png" width="100%">
+  <img alt="Costs" src=".costs/github/demonstracao.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,4 +26,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Costs é um sistema de gerenciamento de gastos relacionados a desenvolvimento de projetos. Nele é possível criar o seu projeto, nomear, orçamentar, selecionar uma categoria e editar algum projeto já cadastrado, tudo isso sendo trabalhado em conjunto com um banco de dados para armazenamento de infomações.
-Caso queira acessar o projeto para ver as funcionalidades, basta clicar nesse [link](https://guilhermesousag.github.io/costs/) 
