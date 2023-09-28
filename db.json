@@ -13,7 +13,7 @@
     },
     {
       "name": "Projeto 2",
-      "budget": "70000",
+      "budget": "30500",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -29,13 +29,80 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 3100,
+      "services": [
+        {
+          "name": "Imagens 3d",
+          "cost": "100",
+          "description": "Imagens geradas para visualização",
+          "id": "5921bd70-c2f8-4a0f-ae2d-8962c55f2b68"
+        },
+        {
+          "name": "Mais imagens em 3d",
+          "cost": "150",
+          "description": "Imagens para visualização do projeto",
+          "id": "b898cc1c-6cfc-4a1d-88cd-725b265af2a0"
+        },
+        {
+          "name": "Mais imagens em 3d",
+          "cost": "150",
+          "description": "Imagens para visualização do projeto",
+          "id": "b898cc1c-6cfc-4a1d-88cd-725b265af2a0"
+        },
+        {
+          "name": "Mais imagens em 3d",
+          "cost": "150",
+          "description": "Imagens para visualização do projeto",
+          "id": "b898cc1c-6cfc-4a1d-88cd-725b265af2a0"
+        },
+        {
+          "name": "Mais imagens em 3d",
+          "cost": "150",
+          "description": "Imagens para visualização do projeto",
+          "id": "b898cc1c-6cfc-4a1d-88cd-725b265af2a0"
+        },
+        {
+          "name": "Mais imagens em 3d",
+          "cost": "150",
+          "description": "Imagens para visualização do projeto",
+          "id": "b898cc1c-6cfc-4a1d-88cd-725b265af2a0"
+        },
+        {
+          "name": "Mais imagens em 3d",
+          "cost": "150",
+          "description": "Imagens para visualização do projeto",
+          "id": "b898cc1c-6cfc-4a1d-88cd-725b265af2a0"
+        },
+        {
+          "name": "Mais imagens em 3d",
+          "cost": "150",
+          "description": "Imagens para visualização do projeto",
+          "id": "b898cc1c-6cfc-4a1d-88cd-725b265af2a0"
+        },
+        {
+          "name": "Mais imagens em 3d",
+          "cost": "150",
+          "description": "Imagens para visualização do projeto",
+          "id": "b898cc1c-6cfc-4a1d-88cd-725b265af2a0"
+        },
+        {
+          "name": "Teste",
+          "cost": "1700",
+          "description": "teste",
+          "id": "93c15ae1-c3d8-4863-b1c1-30c24b597966"
+        },
+        {
+          "name": "Teste 2",
+          "cost": "100",
+          "description": "teste2",
+          "id": "16ff12a4-713c-4407-bccb-90fd9522fe20"
+        }
+      ],
       "id": 3
     },
     {
-      "name": "Projeto 4",
-      "budget": "90000",
+      "name": "Projeto 4 (atualizado)",
+      "budget": "1500",
       "category": {
         "id": "4",
         "name": "Planejamento"
