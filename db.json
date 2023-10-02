@@ -107,8 +107,15 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1000,
+      "services": [
+        {
+          "name": "asd",
+          "cost": "1000",
+          "description": "asd",
+          "id": "f82c46bf-39d6-43d4-b5c7-89419af68582"
+        }
+      ],
       "id": 4
     }
   ],
